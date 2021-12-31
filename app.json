@@ -1,0 +1,15 @@
+{
+  "name": "reactnative-sample",
+  "displayName": "reactnative-sample",
+  "expo": {
+    "name": "reactnative-sample",
+    "slug": "reactnative-sample",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "news.test.client"
+    }
+  }
+}
